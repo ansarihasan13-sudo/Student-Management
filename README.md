@@ -26,25 +26,6 @@ A Spring Boot REST API project for managing student records using MySQL database
 
 ---
 
-## 📌 API Endpoints
-
-### ➤ Add Student
-POST  http://localhost:8080/students
-
-### ➤ Get All Students
-GET  http://localhost:8080/students
-
-### ➤ Get Student By ID
-GET  http://localhost:8080/students/{1}
-
-### ➤ Update Student
-PUT  http://localhost:8080/students/{2}
-
-### ➤ Delete Student
-DELETE  http://localhost:8080/students/{1}
-
----
-
 ## 🗄 Database Configuration
 
 Update `application.properties`:
